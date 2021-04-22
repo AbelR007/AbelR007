@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I am Abel Roy (AbelR007) <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="25px">
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I am Abel Roy (AbelR007) <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="35px">
 
 # I'm a 💻Programmer, 📚Student and a 😀Friend
 - 🔭 I’m currently working on Ersteam Management Software & a cool Discord Bot
@@ -27,10 +27,12 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=abelr007&show_icons=true&theme=radical" alt="Abel Roy's Github stats" />
 </a>
+
+## Most used Language
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelr007&layout=compact&theme=radical" />
 </a>
-<br>
+
 ## Contact me 
 - <img src="https://bit.ly/3v4bwxk" width="25px"> [Twitter](https://twitter.com/abelroy007)
 - <img src="https://bit.ly/3tHPpfW" width="25px"> [Discord](https://discord.gg/sMPsGUD)
