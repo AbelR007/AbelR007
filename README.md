@@ -1,8 +1,8 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I am Abel Roy (AbelR007) 😎
 
-# I'm a 💻Programmer, 📚Student and a 😀Friend
+# I'm a 💻Programmer, 📚Student and a 😃Friend
 - 🔭 I’m currently working on my extending exams
-- 🤠 I shall be working on Ersteam Management Software & a cool Discord Bot
+- 🤠 I shall be working on Ersteam Management Software & SlugShot Discord Bot
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m always on a lookout for collaboration with other developers
 - ❤️ I love writing, coding & science
@@ -33,8 +33,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abelr007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me 
-- <img src="https://bit.ly/3v4bwxk" width="15px"> [Twitter](https://www.twitter.com/abelroy007) : @AbelRoy007
-- <img src = "https://cdn2.iconfinder.com/data/icons/font-awesome/1792/github-square-512.png" width="15px"> [Github](https://www.github.com/AbelR007) : AbelR007
+- <img src="https://bit.ly/3v4bwxk" width="15px"> [Twitter](https://www.twitter.com/abelroy007)
+- <img src = "https://cdn2.iconfinder.com/data/icons/font-awesome/1792/github-square-512.png" width="15px"> [Github](https://www.github.com/AbelR007)
 - <img src="https://bit.ly/3tHPpfW" width="15px"> [Discord](https://www.discord.gg/sMPsGUD)
 - <img src="https://bit.ly/3gwjnzz" width="15px"> [Facebook](https://www.facebook.com/abel.roy.9883)
 
