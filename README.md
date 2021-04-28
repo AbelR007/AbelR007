@@ -8,7 +8,7 @@
 - ❤️ I love writing, coding & science
 - 🥅 Goals : Code awesome ideas & be unique
 - ⚡ Fun fact: I am always with unparalleled ideas that I don't even know how to express
-- 💬 Ask to me about anything [here](https://github.com/abelr007/abelr007/issues)
+- 💬 Ask to me about anything [here](https://github.com/abelr007/abelr007/issues) or at [Discord](https://discord.com) : **AbelR007#5096**
 
 ## Languages & Tools
 
@@ -26,11 +26,8 @@
 ## Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=abelr007&show_icons=true&theme=radical" alt="Abel Roy's Github stats" />
+  <img align="centre right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelr007&layout=compact&theme=radical" />
 </a>
-
-## Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abelr007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me 
 - <img src="https://bit.ly/3v4bwxk" width="15px"> [Twitter](https://www.twitter.com/abelroy007)
