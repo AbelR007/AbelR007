@@ -1,8 +1,8 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I am Abel Roy (AbelR007) 😎
 
 # I'm a 💻Programmer, 📚Student and a 😃Friend
-- 🔭 I’m currently working on my extending exams
-- 🤠 I shall be working on Ersteam Management Software & SlugShot Discord Bot
+- 🔭 I’m currently studying for my extending exams
+- 🤠 I will be working on Ersteam Management Software & SlugShot Discord Bot
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m always on a lookout for collaboration with other developers
 - ❤️ I love writing, coding & science
