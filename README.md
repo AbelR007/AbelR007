@@ -1,6 +1,7 @@
-## Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> !
+<h3> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> !</h3>
+
 # I am Abel Roy (AbelR007) 😎
-### 💻Programmer, a 📚Student and a 😃Helper in-disguise
+\>\>\> **💻Programmer, a 📚Student and a 😃Helper**
 
 - 🔭 I’m currently studying for my extending exams
 - 🤠 I will be working on Ersteam Management Software & [SlugShot](github.com/SlugShotBot) Discord Bot
