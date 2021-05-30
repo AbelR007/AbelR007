@@ -26,10 +26,18 @@
 </p>
 
 ## Github Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbelR007&theme=monokai)
+<details open>
+  <summary> <b><u>Extra Details</u></b> </summary>
+  <br>
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=abelr007&show_icons=true&theme=radical" alt="Abel Roy's Github stats" />
+  </a>
+</details>
+
+<details>
+  <summary> <b><u>Most Used Languages</u></b> </summary><br>
   <img align="centre right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelr007&layout=compact&theme=radical" />
-</a>
+</details>
 
 ## Contact me 
 - <img src="https://bit.ly/3v4bwxk" width="15px"> [Twitter](https://www.twitter.com/abelroy007)
@@ -42,3 +50,4 @@
 ### *Don't forget to be Awesome!!!* 
 
 [//]: <> (  <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelr007&layout=compact&theme=radical" />)
+[//]: <> (<a href="https://github.com/anuraghazra/github-readme-stats">)
