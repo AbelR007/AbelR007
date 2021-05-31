@@ -22,32 +22,40 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
 </p>
 
 ## Github Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbelR007&theme=monokai)
-<details open>
-  <summary> <b><u>Extra Details</u></b> </summary>
+<details>
+  <summary> <b><u>More Stats</u></b> </summary>
   <br>
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=abelr007&show_icons=true&theme=radical" alt="Abel Roy's Github stats" />
+  <img align="centre" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abelr007&theme=nord_dark">
+  <img align="centre" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abelr007&theme=nord_dark">
   </a>
 </details>
 
 <details>
   <summary> <b><u>Most Used Languages</u></b> </summary><br>
-  <img align="centre right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelr007&layout=compact&theme=radical" />
+  <img align="centre left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abelr007&theme=nord_bright">
+  <img align="centre right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abelr007&theme=nord_bright"/>
 </details>
 
-## Contact me 
-- <img src="https://bit.ly/3v4bwxk" width="15px"> [Twitter](https://www.twitter.com/abelroy007)
-- <img src = "https://cdn2.iconfinder.com/data/icons/font-awesome/1792/github-square-512.png" width="15px"> [Github](https://www.github.com/AbelR007)
-- <img src="https://bit.ly/3tHPpfW" width="15px"> [Discord](https://www.discord.gg/sMPsGUD)
-- <img src="https://bit.ly/3gwjnzz" width="15px"> [Facebook](https://www.facebook.com/abel.roy.9883)
+## My Projects
+<a href="https://github.com/abelr007/Autolist">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abelr007&repo=autolist" />
+</a>
+<a href="https://github.com/abelr007/SlugShot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abelr007&repo=slugshot" />
+</a>
 
 ---
 
 ### *Don't forget to be Awesome!!!* 
-
+<!---
 [//]: <> (  <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelr007&layout=compact&theme=radical" />)
 [//]: <> (<a href="https://github.com/anuraghazra/github-readme-stats">)
+[//]: <> (  <img align="centre left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelr007&layout=compact&theme=radical"/>)
+[//]: # ((https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abelr007&theme=monokai))
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=abelr007&show_icons=true&theme=radical" alt="Abel Roy's Github stats" />
+-->
