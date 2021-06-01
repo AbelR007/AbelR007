@@ -36,7 +36,7 @@
     <img src="img/misc/gamedev.svg" alt="gamedev" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href='abelroi007@gmail.com'>
-    <img src='img/social/email_me.svg' alt='Gmail' style='vertical-align:top' margin:6px 4px size="">
+    <img src='img/social/email_me.svg' alt='Gmail' style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
 
