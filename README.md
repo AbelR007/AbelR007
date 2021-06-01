@@ -13,15 +13,29 @@
 - 💬 Ask to me about anything [here](https://github.com/abelr007/abelr007/issues) or at [Discord](https://discord.com) : **AbelR007#5096**
 
 ## Languages & Tools
+<p align="left">
+  <a href="#">
+    <img src="img/lang/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="img/lang/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="img/lang/css.svg" alt="css" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="img/lang/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="img/tools/pycharm.svg" alt="pycharm" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="img/tools/vscode.svg" alt="vscode" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="img/misc/gamedev.svg" alt="gamedev" style="vertical-align:top; margin:6px 4px">
+  </a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
 </p>
 
 ## Github Stats
@@ -49,5 +63,5 @@
 </a>
 
 ---
-
-### *Don't forget to be Awesome!!!*
+### *Be Awesome !*
+<!--- ### Created with ❤️ by AbelR007 -->
