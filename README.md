@@ -29,8 +29,8 @@
 <details>
   <summary> <b><u>More Stats</u></b> </summary>
   <br>
-  <img align="centre" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abelr007&theme=nord_dark">
-  <img align="centre" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abelr007&theme=nord_dark">
+  <img align="centre right" src="https://github-readme-stats.vercel.app/api?username=abelr007&theme=vue&show_icons=true">
+  <img align="centre left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abelr007&theme=vue">
   </a>
 </details>
 
@@ -42,10 +42,10 @@
 
 ## My Projects
 <a href="https://github.com/abelr007/Autolist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abelr007&repo=autolist" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abelr007&theme=dracula&repo=autolist" />
 </a>
 <a href="https://github.com/abelr007/SlugShot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abelr007&repo=slugshot" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abelr007&theme=dracula&repo=slugshot" />
 </a>
 
 ---
@@ -58,4 +58,5 @@
 [//]: # ((https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abelr007&theme=monokai))
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=abelr007&show_icons=true&theme=radical" alt="Abel Roy's Github stats" />
+<img align="centre" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abelr007&theme=dracula">
 -->
