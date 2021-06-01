@@ -1,4 +1,4 @@
-<h3> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> !</h3>
+<h3> Hello there <img src="img/animate/hands.gif" width="25px" style="margin:6px 4px"> !</h3>
 
 # I am Abel Roy (AbelR007) 😎
 \>\>\> **💻Programmer, 📚Student and 😃Helper**
