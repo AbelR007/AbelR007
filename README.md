@@ -68,5 +68,6 @@
 </a>
 
 ---
-### *Be Awesome !*
+### *Be Awesome !* <img align="right" src="https://komarev.com/ghpvc/?username=AbelR007&color=red&style=plastic">
+
 <!--- ### Created with ❤️ by AbelR007 -->
