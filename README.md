@@ -10,7 +10,7 @@
 - ❤️ I love writing, coding & studying science
 - 🥅 Goals : Code awesome ideas & be unique
 - ⚡ Fun fact: I am always with unparalleled ideas that I don't even know how to express and I am lazy when start working on it
-- 💬 Ask to me about anything [here](https://github.com/abelr007/abelr007/issues) or at [Discord](https://discord.com) : **AbelR007#5096**
+- 💬 Ask to me about anything [here](https://github.com/abelr007/abelr007/issues) or at [Discord](https://discord.com) : **AbelR#0070**
 
 ## Languages & Tools
 <p align="left">
