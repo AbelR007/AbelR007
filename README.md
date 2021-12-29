@@ -59,12 +59,12 @@
   <img align="centre right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abelr007&theme=nord_bright" />
 </details>
 
-## My Projects
+## My Recent Projects
 <a href="https://github.com/abelr007/Autolist">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abelr007&theme=dracula&repo=autolist" />
 </a>
-<a href="https://github.com/abelr007/SlugShot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abelr007&theme=dracula&repo=slugshot" />
+<a href="https://github.com/abelr007/Christmas-Tree">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abelr007&theme=dracula&repo=christmas-tree" />
 </a>
 
 ---
