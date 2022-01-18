@@ -3,14 +3,14 @@
 # I am Abel Roy (AbelR007) 😎
 \>\>\> **💻Programmer, 📚Student and 😃Helper**
 
-- 🔭 I’m currently studying for entrance exams & new cool upcoming projects
-- 🤠 I will be working on Ersteam & [SlugShot](github.com/SlugShotBot)
-- 🌱 I’m currently learning CSS & JavaScript for Web Development
+- 🔭 I’m currently studying BTech at St. Vincent Pallotti College, Nagpur
+- 🤠 I'm working on Kingsback & [SlugShot](github.com/SlugShotBot)
+- 🌱 I’m currently learning Django for Backend Web Development
 - 👯 I’m always on a lookout for collaboration with other developers
 - ❤️ I love writing, coding & studying science
 - 🥅 Goals : Code awesome ideas & be unique
 - ⚡ Fun fact: I am always with unparalleled ideas that I don't even know how to express and I am lazy when start working on it
-- 💬 Ask to me about anything [here](https://github.com/abelr007/abelr007/issues) or at [Discord](https://discord.com) : **AbelR#0070**
+- 💬 Ask to me about anything [here](https://github.com/abelr007/abelr007/issues) or at [Discord](https://discord.com) : **AbelR#4070**
 
 ## Languages & Tools
 <p align="left">
