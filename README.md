@@ -1,9 +1,13 @@
 <h3> Hello there <img src="img/animate/hands.gif" width="25px" style="margin:6px 4px"> !</h3>
 
-# I am Abel Roy (AbelR007) 😎
-\>\>\> **💻Programmer, 📚Student and 😃Helper**
+# I am Abel Roy (AbelR007) 
+[![Twitter Badge](https://img.shields.io/badge/-@AbelRoy007-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/AbelRoy007)
+[![Discord Badge](https://img.shields.io/badge/abelr4070-7289DA?style=flat&labelColor=7289DA&logo=discord&logoColor=white)](https://top.gg/user/3702330232376328192)
+[![Linkedin Badge](https://img.shields.io/badge/-Abel%20Roy-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-roy/)
+[![Mail Badge](https://img.shields.io/badge/-abelroi007-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abelroi007@gmail.com)
 
-- 🔭 I’m currently studying BTech at St. Vincent Pallotti College, Nagpur
+\>\>\> **💻Programmer, 📚Student and 🌟Perfectionist**
+- 🔭 I’m currently studying BTech (CE) at St. Vincent Pallotti College, Nagpur
 - 🤠 I'm working on Kingsback & [SlugShot](github.com/SlugShotBot)
 - 🌱 I’m currently learning Django for Backend Web Development
 - 👯 I’m always on a lookout for collaboration with other developers
