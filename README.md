@@ -47,23 +47,34 @@
   </a>
 </p>
 
-## Github Stats
+
+# Github Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbelR007&theme=monokai)
+
+### More Stats ...
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=abelr007)](https://github.com/abelr007)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abelr007&theme=vue&utcOffset=5)
+
+### Languages I prefer ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abelr007)](https://github.com/abelr007)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abelr007&theme=default)
+
+<!--
 <details>
   <summary> <b><u>More Stats</u></b> </summary>
   <br>
-  <img align="centre right" src="https://github-readme-stats.vercel.app/api?username=abelr007&theme=vue&show_icons=true">
-  <img align="centre left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abelr007&theme=vue">
-  </a>
+  <img align="centre right" src="https://github-readme-stats.vercel.app/api?username=abelr007&theme=vue&show_icons=true">  
+  <img align="centre left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abelr007&theme=vue"> <br>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abelr007&theme=vue&utcOffset=5)
 </details>
-
 <details>
   <summary> <b><u>Most Used Languages</u></b> </summary><br>
   <img align="centre left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abelr007&theme=nord_bright">
   <img align="centre right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abelr007&theme=nord_bright" />
 </details>
+-->
 
-## My Recent Projects
+### Recent Projects ...
 <a href="https://github.com/abelr007/Autolist">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abelr007&theme=dracula&repo=autolist" />
 </a>
