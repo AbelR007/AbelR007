@@ -1,88 +1,54 @@
-<h3> Hello there <img src="img/animate/hands.gif" width="25px" style="margin:6px 4px"> !</h3>
+# Hello there 👋, My name is Abel Roy
 
-# I am Abel Roy (AbelR007) 
-[![Twitter Badge](https://img.shields.io/badge/-@AbelRoy007-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/AbelRoy007)
-[![Discord Badge](https://img.shields.io/badge/abelr4070-7289DA?style=flat&labelColor=7289DA&logo=discord&logoColor=white)](https://top.gg/user/3702330232376328192)
-[![Linkedin Badge](https://img.shields.io/badge/-Abel%20Roy-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abelroy/)
-[![Mail Badge](https://img.shields.io/badge/-abelroi007-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abelroi007@gmail.com)
+AI Python Programmer & Full Stack Web Developer
+----------------------------------------
+<!-- VERSION 3 Update -->
 
-\>\>\> **💻Programmer, 📚Student and 🌟Perfectionist**
-- 🔭 I’m currently studying BTech (CE) at St. Vincent Pallotti College, Nagpur
-- 🤠 I'm working on Kingsback & [SlugShot](github.com/SlugShotBot)
-- 🌱 I’m currently learning Django for Backend Web Development
-- 👯 I’m always on a lookout for collaboration with other developers
-- ❤️ I love writing, coding & studying science
-- 🥅 Goals : Code awesome ideas & be unique
-- ⚡ Fun fact: I am always with unparalleled ideas that I don't even know how to express and I am lazy when start working on it
-- 💬 Ask to me about anything [here](https://github.com/abelr007/abelr007/issues) or at [Discord](https://discord.com) : **AbelR#4070**
+I've been learning to code for 4 years but it's through my projects that I learned the vast sections of programming. I specialize in Python Programming Language since I started and have quite the experience with it. I am also learning Full Stack Web Development and am working as a Web Developer Intern.
 
-## Languages & Tools
+* 🌍  I was based in Delhi, India, but now at Nagpur pursuing BTech Engineering
+* 🖥️  See my portfolio at [my website](http://abelr007.github.io) [WIP]
+* ✉️  You can contact me at [abelroi007@gmail.com](mailto:abelroi007@gmail.com)
+* 🚀  I'm currently working on [my full stack website](http://abelr007.github.io)
+* 🧠  I'm learning Full Stack Web Development \[Particularly React & Django\]
+* 🤝  I'm open to collaborating on Creative & Interesting projects
+* ⚡  My logic thinking process is pretty unique, and I am always ready to help you out
+
+### Skills
+
 <p align="left">
-  <a href="#">
-    <img src="img/lang/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="img/lang/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="img/lang/css.svg" alt="css" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="img/lang/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="img/tools/pycharm.svg" alt="pycharm" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="img/tools/vscode.svg" alt="vscode" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="img/misc/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="img/misc/gamedev.svg" alt="gamedev" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href='https://mail.google.com/mail/u/0/'>
-    <img src='img/social/email_me.svg' alt='Gmail' style="vertical-align:top; margin:6px 4px">
-  </a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
 
-# Github Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbelR007&theme=monokai)
+### Socials
 
-### More Stats ...
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=abelr007)](https://github.com/abelr007)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abelr007&theme=vue&utcOffset=5)
+<p align="left"> <a href="https://discord.com/users/abelr#4070" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/AbelR007" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://abelroy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/abelroy__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abelroy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/abelroy007" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Languages I prefer ...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abelr007)](https://github.com/abelr007)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abelr007&theme=default)
+### Badges
 
-<!--
-<details>
-  <summary> <b><u>More Stats</u></b> </summary>
-  <br>
-  <img align="centre right" src="https://github-readme-stats.vercel.app/api?username=abelr007&theme=vue&show_icons=true">  
-  <img align="centre left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abelr007&theme=vue"> <br>
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abelr007&theme=vue&utcOffset=5)
-</details>
-<details>
-  <summary> <b><u>Most Used Languages</u></b> </summary><br>
-  <img align="centre left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abelr007&theme=nord_bright">
-  <img align="centre right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abelr007&theme=nord_bright" />
-</details>
--->
+<b>My GitHub Stats</b>
 
-### Recent Projects ...
-<a href="https://github.com/abelr007/Autolist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abelr007&theme=dracula&repo=autolist" />
-</a>
-<a href="https://github.com/abelr007/Christmas-Tree">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abelr007&theme=dracula&repo=christmas-tree" />
-</a>
+<a href="http://www.github.com/AbelR007"><img src="https://github-readme-stats.vercel.app/api?username=AbelR007&show_icons=true&hide=issues,&count_private=true&title_color=facc15&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="AbelR007's GitHub stats" /></a>
 
----
-### *Be Awesome !* <img align="right" src="https://komarev.com/ghpvc/?username=AbelR007&color=red&style=plastic">
+<a href="http://www.github.com/AbelR007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbelR007&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<!--- ### Created with ❤️ by AbelR007 -->
+<a href="http://www.github.com/AbelR007"><img src="https://activity-graph.herokuapp.com/graph?username=AbelR007&bg_color=1c1917&color=ffffff&line=14b8a6&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/AbelR007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbelR007&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/abelroy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+&lt;&gt; with ❤️ by Abel Roy
