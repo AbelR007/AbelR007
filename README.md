@@ -9,7 +9,7 @@ I've been learning to code for 4 years but it's through my projects that I learn
 * 🌍  I was based in Delhi, India, but now at Nagpur pursuing BTech Engineering
 * 🖥️  See my portfolio at [my website](http://abelr007.github.io) [WIP]
 * ✉️  You can contact me at [abelroi007@gmail.com](mailto:abelroi007@gmail.com)
-* 🚀  I'm currently working on [my full stack website](http://abelr007.github.io)
+* 🚀  I'm currently working on [DeCode Square (MedGuide)](http://medguide.github.io)
 * 🧠  I'm learning Full Stack Web Development \[Particularly React & Django\]
 * 🤝  I'm open to collaborating on Creative & Interesting projects
 * ⚡  My logic thinking process is pretty unique, and I am always ready to help you out
