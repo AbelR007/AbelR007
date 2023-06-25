@@ -22,7 +22,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbelR007&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=AbelR007&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelR007&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-profile-trophy.vercel.app/?username=AbelR007&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=AbelR007&theme=discord&no-frame=true&no-bg=true&margin-w=4) -->
 
 <!-- ### ✍️ Random Stuff
 
